@@ -1,0 +1,2 @@
+# BetEye
+Project for UNIVERSAL SPORTS &amp; GAMES HACKATHON
